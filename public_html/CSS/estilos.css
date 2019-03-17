@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 03/15/2019, 09:00:19 PM
+    Author     : Rangel
+*/
+#ancho{
+    width: 800px;
+}
+body{
+    margin: 20px;
+    font-family: verdana;
+}
+input[name="email"]{
+    background-color: #eeeeee;
+
+}
+p, label {
+    font-family: tahoma;
+}
+/*p:nth-child(3) {*/
+label[for="email"]{color: red}
